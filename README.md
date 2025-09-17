@@ -27,4 +27,4 @@
 
 ## ▶️ Запуск
 ```bash
-python password_check.py
+python main.py
